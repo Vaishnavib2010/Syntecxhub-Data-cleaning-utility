@@ -37,16 +37,9 @@ The following preprocessing steps were applied:
 
 ---
 
-## 📁 Project Structure
-diabetes-data-cleaning/
-│── Diabetes Missing Data.csv
-│── diabetes_cleaned.csv
-│── data_cleaning.py
-│── README.md
+## 🎯 Learning Outcomes
 
-🎯 Learning Outcomes
-
-Practical experience with real-world data cleaning
-Understanding data quality issues
-Writing reproducible preprocessing pipelines
-Using GitHub for project version control
+- Gained practical experience with real-world data cleaning  
+- Developed an understanding of common data quality issues  
+- Learned to write reproducible data preprocessing pipelines  
+- Used GitHub for project version control and collaboration  
